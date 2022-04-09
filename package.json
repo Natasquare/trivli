@@ -1,0 +1,20 @@
+{
+  "name": "trivli",
+  "version": "0.6.9",
+  "description": "Simple NodeJS CLI-based trivia game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Natasquare",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "colors": "^1.4.0",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.0",
+    "inquirer": "^8.2.2",
+    "nanospinner": "^1.1.0"
+  }
+}
