@@ -138,7 +138,7 @@ async function main() {
         await handleAns(ans, data.correct_answer, name);
         cont = await askCont();
     }
-    over(name, questions);
+    over(name);
 }
 
 main();
